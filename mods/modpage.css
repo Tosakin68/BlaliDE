@@ -1,0 +1,63 @@
+h2  {
+    position: relative;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    white-space: nowrap;
+    bottom: 320px;
+    right: 200px;
+    color: white;
+}
+
+.button {
+    max-width: 400px;
+}
+
+
+#download {
+    position: relative;
+    bottom: 620px;
+    left: 180px;
+}
+
+#screenshot {
+    position: relative;
+    max-width: 400px;
+    bottom: 350px;
+    right: 240px;
+}
+
+#description {
+    position: relative;
+    text-align: start;
+    font-size: 30px;
+    width: 600px;
+    padding: 10px;
+    bottom: 500px;
+    right: 230px;
+    border: 2px solid black;
+    background: goldenrod;
+}
+
+#author {
+    position: relative;
+    text-align: start;
+    font-size: 30px;
+    padding: 10px;
+    width: auto;
+    bottom: 500px;
+    right: 230px;
+    border: 2px solid black;
+    background: lightcoral;
+}
+
+#changelog {
+    position: relative;
+    text-align: start;
+    font-size: 30px;
+    width: 600px;
+    padding: 10px;
+    bottom: 500px;
+    right: 230px;
+    border: 2px solid black;
+    background: lightslategrey;
+}

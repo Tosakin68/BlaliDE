@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    background-image: url("/Images/blalibackground.png");
+    background-repeat: no-repeat;
+    background-size:cover
+}
+#bodypage {
+    width: 300px;
+    height: 800px;
+    padding: 300px;
+    margin: 0px;
+    background-color: #5e5655;
+}
+
+h1 {
+
+    position: relative;
+    top: 20px;
+    right: 350px;
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+nav {
+    background-color: darkblue;
+    border: 5px solid black;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    bottom: 320px;
+    right: 300px;
+    height: 100px;
+    width: 900px;
+}
+li {
+    display: inline-block;  
+    font-size: 30px; 
+    padding: 10px;
+    position: relative;
+    left: 60px;
+    bottom: 42px;
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+
+}
+
+#screenshotframe {
+    position: relative;
+    right: 270px;
+    bottom: 280px;
+}
+
+
+img {
+    max-width: 300px;
+    padding: 5px;
+}
+
+#text {
+    position: relative;
+    bottom: 920px;
+    left: 90px;
+    font-size: 30px;
+    width: 500px;
+    text-align: left;
+}
+
+#discord {
+    position: relative;
+    bottom: 920px;
+    left: 920px;
+    font-size: 40px;
+    width: 500px;
+    text-align: left;
+}

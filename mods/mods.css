@@ -1,0 +1,48 @@
+#parent {
+    position: relative;
+    right: 390px;
+    bottom: 250px;
+}
+
+#list {
+    width: 900px;
+}
+
+.box {
+    border: 4px solid black;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+
+}
+
+
+.description {
+    text-align: start;
+    font-size: 30px;
+    user-select: none;
+    color: black;
+    text-shadow: none;
+}
+
+#betterblali {
+    background: linear-gradient(orange, red);
+
+}
+
+#blalirandomizer {
+    background: linear-gradient(green, lightgreen);
+}
+
+#betterblalitext {
+    position: relative;
+    bottom: 300px;
+    left: 210px;
+
+}
+
+#blalirandomizertext {
+    position: relative;
+    bottom: 500px;
+    left: 600px;
+}
